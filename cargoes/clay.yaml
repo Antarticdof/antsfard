@@ -1,0 +1,17 @@
+abbreviation: CY
+available: true
+classes: 2064
+colour: 38
+id: 1
+label: ClAY
+longName: clay
+name: Clay
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/clay.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
