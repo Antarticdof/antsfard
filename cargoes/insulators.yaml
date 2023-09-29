@@ -1,0 +1,17 @@
+abbreviation: IN
+available: true
+classes: 544
+colour: 135
+id: 0
+label: ISLR
+longName: insulators
+name: Insulators
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 1645
+sprite:
+  filename: cargoes/insulators.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 6
