@@ -1,0 +1,40 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 2
+layout:
+- - - 1
+name: School
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/school/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/school/1.png
+      left: -31
+      top: 3
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/school/3.png
+      left: -31
+      top: -10
+type: secondary
