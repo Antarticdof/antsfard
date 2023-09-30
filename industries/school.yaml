@@ -49,5 +49,5 @@ tiles:
     sprite:
       filename: industries/school/5.png
       left: -30
-      top: -12
+      top: -26
 type: secondary
