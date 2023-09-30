@@ -8,7 +8,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
-- - - 5
+- - - 7
 name: Insulator maker
 placement: near-town
 probabilityInGame: 5
@@ -61,8 +61,8 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/insulator-maker/5.png
-      left: -30
-      top: -33
+      left: -31
+      top: -31
 - sprites:
   - alwaysDraw: true
     drawType: recolour
@@ -73,7 +73,7 @@ tiles:
     sprite:
       filename: industries/insulator-maker/6.png
       left: -31
-      top: -32
+      top: -31
 - sprites:
   - alwaysDraw: true
     drawType: recolour
@@ -85,4 +85,59 @@ tiles:
       filename: industries/insulator-maker/7.png
       left: -31
       top: -31
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/8.png
+      left: -31
+      top: -31
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/9.png
+      left: -31
+      top: -31
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/10.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/11.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/12.png
+      left: -31
+      top: 0
 type: secondary
