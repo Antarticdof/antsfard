@@ -6,7 +6,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 2
 layout:
-- - - 0
+- - - 2
 name: School
 placement: in-town
 probabilityInGame: 5
