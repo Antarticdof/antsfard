@@ -61,6 +61,6 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/school/6.png
-      left: -31
-      top: 0
+      left: -38
+      top: -23
 type: secondary
