@@ -6,7 +6,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 2
 layout:
-- - - 2
+- - - 3
 name: School
 placement: in-town
 probabilityInGame: 5
@@ -65,4 +65,15 @@ tiles:
       filename: industries/school/6.png
       left: -38
       top: -23
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/school/9.png
+      left: -31
+      top: 0
 type: secondary
