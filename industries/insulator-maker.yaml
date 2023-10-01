@@ -693,5 +693,16 @@ tiles:
     sprite:
       filename: industries/insulator-maker/61.png
       left: -31
-      top: 0
+      top: -30
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/62.png
+      left: -31
+      top: -30
 type: secondary
