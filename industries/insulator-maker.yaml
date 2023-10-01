@@ -495,5 +495,5 @@ tiles:
     sprite:
       filename: industries/insulator-maker/43.png
       left: -31
-      top: 0
+      top: -30
 type: secondary
