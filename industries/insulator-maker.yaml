@@ -8,7 +8,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
-- - - 68
+- - - 73
     - -1
     - -1
     - -1
@@ -792,5 +792,71 @@ tiles:
     sprite:
       filename: industries/insulator-maker/70.png
       left: -31
-      top: 0
+      top: -30
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/71.png
+      left: -31
+      top: -45
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/72.png
+      left: -31
+      top: -45
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/73.png
+      left: -31
+      top: -45
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/74.png
+      left: -31
+      top: -45
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/75.png
+      left: -31
+      top: -45
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/insulator-maker/76.png
+      left: -31
+      top: -45
 type: secondary
