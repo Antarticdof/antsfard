@@ -38,8 +38,8 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/new-industry-1/4.png
-      left: -31
-      top: 0
+      left: -25
+      top: -13
 - sprites:
   - alwaysDraw: true
     drawType: recolour
