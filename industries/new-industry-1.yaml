@@ -6,7 +6,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 1
 layout:
-- - - 1
+- - - 3
 - - - 1
 name: 'New industry #1'
 placement: anywhere
@@ -50,7 +50,7 @@ tiles:
     sprite:
       filename: industries/new-industry-1/5.png
       left: -31
-      top: 0
+      top: -30
 - sprites:
   - alwaysDraw: true
     drawType: recolour
@@ -61,5 +61,5 @@ tiles:
     sprite:
       filename: industries/new-industry-1/6.png
       left: -31
-      top: 0
+      top: -30
 type: primary
