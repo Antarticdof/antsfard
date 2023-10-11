@@ -6,7 +6,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 2
 layout:
-- - - 4
+- - - 5
     - -1
   - - -1
     - -1
@@ -79,4 +79,15 @@ tiles:
       filename: industries/school/9.png
       left: -34
       top: -18
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/school/10.png
+      left: -31
+      top: 0
 type: secondary
