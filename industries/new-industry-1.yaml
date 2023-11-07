@@ -149,7 +149,7 @@ tiles:
     sprite:
       filename: industries/new-industry-1/14.png
       left: -31
-      top: -10
+      top: -5
 - sprites:
   - alwaysDraw: true
     drawType: recolour
