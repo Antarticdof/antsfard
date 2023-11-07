@@ -6,7 +6,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 1
 layout:
-- - - 6
+- - - 12
 - - - 1
 name: 'New industry #1'
 placement: anywhere
